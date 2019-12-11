@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Bruno Logerfo's CV
+title: Bruno Logerfo
 ---
 # Bruno Logerfo
 Software developer.
