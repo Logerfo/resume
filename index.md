@@ -6,7 +6,8 @@ title: Bruno Logerfo
 Software developer.
 
 <div id="webaddress">
-<a href="https://logerfo.tk">Portfolio</a>
+<a href="https://github.com/Logerfo">GitHub</a>
+| <a href="https://logerfo.tk">Portfolio</a>
 | <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
 </div>
 
