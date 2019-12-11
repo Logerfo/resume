@@ -6,7 +6,7 @@ title: Bruno Logerfo
 Software developer.
 
 <div id="webaddress">
-<a href="bruno@logerfo.tk">bruno@logerfo.tk</a>
+<a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>
 | <a href="https://logerfo.tk">Portfolio</a>
 </div>
 
