@@ -6,9 +6,9 @@ title: Bruno Logerfo
 Software developer.
 
 <div id="webaddress">
-<a href="https://github.com/Logerfo">GitHub</a>
-| <a href="https://logerfo.tk">Portfolio</a>
-| <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
+<a href="https://github.com/Logerfo">GitHub</a><br>
+<a href="https://logerfo.tk">Portfolio</a><br>
+<a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
 </div>
 
 ## Contact info
@@ -19,7 +19,8 @@ Bauru, São Paulo, Brazil.
 
 ## Currently
 
-Working fulltime at an automation systems software house focused on gas stations management workflow.
+Working fulltime at an automation systems software house  
+focused on gas stations management workflow.
 
 ### Specialized in
 
