@@ -10,6 +10,10 @@ Software developer.
 | <a href="https://logerfo.tk">Portfolio</a>
 </div>
 
+## Contact info
+Male. Single.  
+Bauru, São Paulo, Brazil.  
++55 (14) 9 8197-8257
 
 ## Currently
 
