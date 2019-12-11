@@ -45,5 +45,5 @@ __SOS System__, Bauru
 - Fulltime job in software development
 - Windows Forms applications
 
-
+---
 Last updated: Dec 2019
