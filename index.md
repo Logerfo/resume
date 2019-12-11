@@ -29,10 +29,10 @@ Node.js, Typescript, Python and ASP.NET Core.
 
 ## Education
 
-`2012-2014`
+`2012 - 2014`
 __CTI / UNESP - Computer Technician__
 
-`2015-2019`
+`2015 - 2019`
 __UNESP - Bachelor’s Degree in Information Systems__
 
 ## Occupation
@@ -43,7 +43,7 @@ __OSTechnologic__
 - Internship in software development
 - Delphi desktop applications
 
-`2015-now`
+`2015 - now`
 __SOS System__
 
 - Fulltime job in software development
