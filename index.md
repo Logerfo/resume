@@ -1,91 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bruno Logerfo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bruno Logerfo
+Software developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bruno@logerfo.tk">bruno@logerfo.tk</a>
+| <a href="https://logerfo.tk">My portfolio</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working fulltime at an automation systems software house focused on gas stations management workflow.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+C#, .NET, Windows Forms and PostgreSQL.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Node.js, Typescript, Python and ASP.NET Core.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2014`
+__CTI/UNESP - Computer Technician__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2015-2019`
+__UNESP - Bachelor’s Degree in Information Systems__
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2014`
+__OSTechnologic__, Bauru
 
-- Warden
-- Minted coins
+- Internship in software development
+- Delphi desktop applications
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015-now`
+__SOS System__, Bauru
 
+- Fulltime job in software development
+- Windows Forms applications
 
+### Footer
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last updated: Dec 2019
