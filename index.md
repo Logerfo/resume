@@ -7,7 +7,7 @@ Software developer.
 
 <div id="webaddress">
 <a href="bruno@logerfo.tk">bruno@logerfo.tk</a>
-| <a href="https://logerfo.tk">My portfolio</a>
+| <a href="https://logerfo.tk">Portfolio</a>
 </div>
 
 
@@ -45,6 +45,5 @@ __SOS System__, Bauru
 - Fulltime job in software development
 - Windows Forms applications
 
-### Footer
 
 Last updated: Dec 2019
