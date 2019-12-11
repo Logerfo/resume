@@ -158,7 +158,7 @@ a {
 	text-decoration:none
 }
 
-a[href^="https?:"]::after{
+a[href^="http"]::after{
     content: " (" attr(href) ") ";
 }
 
