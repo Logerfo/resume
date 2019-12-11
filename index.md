@@ -6,13 +6,14 @@ title: Bruno Logerfo
 Software developer.
 
 <div id="webaddress">
-<a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>
-| <a href="https://logerfo.tk">Portfolio</a>
+<a href="https://logerfo.tk">Portfolio</a>
+| <a href="https://www.linkedin.com/in/logerfo/">LinkedIn</a>
 </div>
 
 ## Contact info
 Male. Single.  
 Bauru, São Paulo, Brazil.  
+<a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
 
 ## Currently
