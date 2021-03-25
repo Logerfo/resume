@@ -13,14 +13,14 @@ Software developer.
 
 ## Contact info
 Male. Single.  
-Bauru, São Paulo, Brazil.  
+São Paulo, São Paulo, Brazil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
 
 ## Currently
 
-Working fulltime at an automation systems software house  
-focused on gas stations management workflow.
+Working fulltime at an financial systems software house
+both on internal and third party back-end projects.
 
 ### Specialized in
 
@@ -28,17 +28,29 @@ C#, .NET, Windows Forms and PostgreSQL.
 
 ### Learning interests
 
-Node.js, Typescript, Python and ASP.NET Core.
+Node.js, Typescript and Python.
 
 ## Education
-
-`2012 - 2014`
-__CTI / UNESP - Computer Technician__
 
 `2015 - 2019`
 __UNESP - Bachelor’s Degree in Information Systems__
 
+`2012 - 2014`
+__CTI / UNESP - Computer Technician__
+
 ## Occupation
+
+`2020 - now`
+__Beyond Soluções__
+
+- Fulltime job in software development (mid and senior level)
+- ASP .Net Core applications
+
+`2015 - 2020`
+__SOS System__
+
+- Fulltime job in software development (junior and mid-level)
+- Windows Forms applications
 
 `2014`
 __OSTechnologic__
@@ -46,11 +58,5 @@ __OSTechnologic__
 - Internship in software development
 - Delphi desktop applications
 
-`2015 - now`
-__SOS System__
-
-- Fulltime job in software development
-- Windows Forms applications
-
 ---
-Last updated: Dec 2019
+Last updated: Jun 2020
