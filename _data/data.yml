@@ -84,7 +84,7 @@ experiences:
     time: 2015 - 2020
     company: SOS Soluções em TI (on-prem retail ERP & POS)
     details: |
-      - Project Coordination: Co-coordinated a greenfield ERP/POS project for nearly 4 years, from initial specification to continuous deployment.
+      - Project Coordination: Co-coordinated a greenfield ERP/POS project for 3 years, from initial specification to continuous deployment.
       - Developer Tooling: Improved code quality and maintainability by developing custom Roslyn Analyzers and Fody Weavers (IL weaving) for the engineering team.
       - System Integration: Developed and maintained critical retail automation features, including gas pump hardware integration and Brazilian tax system (SPED, SAT) compliance.
       - Automation: Built bots, extensions and scripts in Python and TypeScript to automate repetitive development tasks and improve operational efficiency.
