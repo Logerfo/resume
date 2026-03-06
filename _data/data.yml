@@ -65,7 +65,7 @@ experiences:
   info:
   - role: Software Development Manager
     time: 2024 - Present
-    company: WEX
+    company: WEX Inc.
     details: |
       - **Scale & Compliance**: Accountable for large-scale .NET and Java projects in the Payment Card Industry (PCI DSS), ensuring 100% adherence to security standards and high availability across multi-region cloud environments.
       - **Technical Leadership**: Directing the end-to-end SDLC for systems handling millions of transactions per day, coordinating delivery across multicultural and multidisciplinary teams.
