@@ -40,7 +40,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Software Development Manager & Technical Lead | 11+ years of experience
+    Software Development Manager & Technical Lead \| 11+ years of experience
     
     Software Engineering leader with a strong background in high-scale backend systems and Fintech.
     Currently managing large-scale .NET and Java projects at WEX, ensuring PCI DSS compliance and high availability for systems handling millions of daily transactions.
@@ -64,7 +64,7 @@ experiences:
   info:
   - role: Software Development Manager
     time: 2024 - Present
-    company: WEX, remote
+    company: WEX
     details: |
       - Scale & Compliance: Accountable for large-scale .NET and Java projects in the Payment Card Industry (PCI DSS), ensuring 100% adherence to security standards and high availability across multi-region cloud environments.
       - Technical Leadership: Directing the end-to-end SDLC for systems handling millions of transactions per day, coordinating delivery across multicultural and multidisciplinary teams.
@@ -72,7 +72,7 @@ experiences:
       - AI Integration: Leading the adoption of agentic AI workflows to optimize internal backend processes and development efficiency.
   - role: Development Leader & Senior Software Engineer
     time: 2020 - 2023
-    company: Beyond Soluções (fintech), remote
+    company: Beyond Soluções (fintech)
     details: |
       (Promoted from Mid-level to Senior, then to Development Leader)
       
@@ -87,9 +87,10 @@ experiences:
       - Developer Tooling: Improved code quality and maintainability by developing custom Roslyn Analyzers and Fody Weavers (IL weaving) for the engineering team.
       - System Integration: Developed and maintained critical retail automation features, including gas pump hardware integration and Brazilian tax system (SPED, SAT) compliance.
       - Automation: Built bots, extensions and scripts in Python and TypeScript to automate repetitive development tasks and improve operational efficiency.
-  - role: Software Development Intern (Delphi, PostgreSQL)
+  - role: Software Development Intern
     time: 2014
     company: OSTecnologic (on-prem retail ERP & POS)
+    details: Delphi, PostgreSQL
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
