@@ -18,7 +18,7 @@ sidebar:
   # Sidebar links
   email: bruno@logerfo.com.br
   phone: +55 (14) 9 8197-8257
-  timezone: America/Sao_Paulo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: GMT-3 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   website: https://logerfo.com.br/ # Include the full website URL, including "http://" or "https://".
   linkedin: logerfo
   github: logerfo
