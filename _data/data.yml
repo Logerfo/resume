@@ -67,27 +67,27 @@ experiences:
     time: 2024 - Present
     company: WEX
     details: |
-      - Scale & Compliance: Accountable for large-scale .NET and Java projects in the Payment Card Industry (PCI DSS), ensuring 100% adherence to security standards and high availability across multi-region cloud environments.
-      - Technical Leadership: Directing the end-to-end SDLC for systems handling millions of transactions per day, coordinating delivery across multicultural and multidisciplinary teams.
-      - Operational Excellence: Partnering with cross-functional leaders to align resource allocation with business goals, while mentoring engineers (Junior to Senior) through performance assessments and IDPs.
-      - AI Integration: Leading the adoption of agentic AI workflows to optimize internal backend processes and development efficiency.
+      - **Scale & Compliance**: Accountable for large-scale .NET and Java projects in the Payment Card Industry (PCI DSS), ensuring 100% adherence to security standards and high availability across multi-region cloud environments.
+      - **Technical Leadership**: Directing the end-to-end SDLC for systems handling millions of transactions per day, coordinating delivery across multicultural and multidisciplinary teams.
+      - **Operational Excellence**: Partnering with cross-functional leaders to align resource allocation with business goals, while mentoring engineers (Junior to Senior) through performance assessments and IDPs.
+      - **AI Integration**: Leading the adoption of agentic AI workflows to optimize internal backend processes and development efficiency.
   - role: Development Leader & Senior Software Engineer
     time: 2020 - 2023
     company: Beyond Soluções (fintech)
     details: |
       (Promoted from Mid-level to Senior, then to Development Leader)
       
-      - Product Ownership: Led the technical design and execution of a brand-new taxation product for financial market investors, utilizing a stack of C#, PostgreSQL, MongoDB, and Redis.
-      - Architecture Evolution: Architected high-performance microservices using gRPC, Apache Kafka, and HATEOAS to support complex financial and tax accounting rules.
-      - Technical Governance: Established code quality standards through rigorous reviews, technical documentation, and mentorship, while acting as the primary SME for financial market integrations.
+      - **Product Ownership**: Led the technical design and execution of a brand-new taxation product for financial market investors, utilizing a stack of C#, PostgreSQL, MongoDB, and Redis.
+      - **Architecture Evolution**: Architected high-performance microservices using gRPC, Apache Kafka, and HATEOAS to support complex financial and tax accounting rules.
+      - **Technical Governance**: Established code quality standards through rigorous reviews, technical documentation, and mentorship, while acting as the primary SME for financial market integrations.
   - role: Mid-level & Junior Software Developer
     time: 2015 - 2020
     company: SOS Soluções em TI (on-prem retail ERP & POS)
     details: |
-      - Project Coordination: Co-coordinated a greenfield ERP/POS project for 3 years, from initial specification to continuous deployment.
-      - Developer Tooling: Improved code quality and maintainability by developing custom Roslyn Analyzers and Fody Weavers (IL weaving) for the engineering team.
-      - System Integration: Developed and maintained critical retail automation features, including gas pump hardware integration and Brazilian tax system (SPED, SAT) compliance.
-      - Automation: Built bots, extensions and scripts in Python and TypeScript to automate repetitive development tasks and improve operational efficiency.
+      - **Project Coordination**: Co-coordinated a greenfield ERP/POS project for 3 years, from initial specification to continuous deployment.
+      - **Developer Tooling**: Improved code quality and maintainability by developing custom Roslyn Analyzers and Fody Weavers (IL weaving) for the engineering team.
+      - **System Integration**: Developed and maintained critical retail automation features, including gas pump hardware integration and Brazilian tax system (SPED, SAT) compliance.
+      - **Automation**: Built bots, extensions and scripts in Python and TypeScript to automate repetitive development tasks and improve operational efficiency.
   - role: Software Development Intern
     time: 2014
     company: OSTecnologic (on-prem retail ERP & POS)
