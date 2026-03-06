@@ -15,17 +15,25 @@
   //     filter: grayscale(1);
   //     -webkit-filter: greyscale(1);
   //   }
-  .main-wrapper .time {
-    padding: 0px 10px 10px 10px;
-    //  float: right;
-    //  color: black !important;
-    -webkit-print-color-adjust: exact;
+  .main-wrapper {
+    .time {
+      padding: 0px 10px 10px 10px;
+      //  float: right;
+      //  color: black !important;
+      -webkit-print-color-adjust: exact;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
   }
   .sidebar-wrapper {
     position: static;
     //  float: right;
     //  width: 40%;
     -webkit-print-color-adjust: exact;
+    .container-block {
+      padding: 30px 30px 10px 30px;
+    }
   }
 
   .remove-container.container-block {
